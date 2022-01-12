@@ -630,17 +630,17 @@ Text GLabel 3500 9250 2    50   Input ~ 0
 PA8
 Text GLabel 5600 7400 0    50   Input ~ 0
 PA14-SWCLK
-Text GLabel 5600 7700 0    50   Input ~ 0
-PA15
-Text GLabel 5600 7800 0    50   Input ~ 0
-PB3
 Text GLabel 5600 7900 0    50   Input ~ 0
-PB4
+PA15
 Text GLabel 5600 8000 0    50   Input ~ 0
-PB5
+PB3
 Text GLabel 5600 8100 0    50   Input ~ 0
-PB6
+PB4
 Text GLabel 5600 8200 0    50   Input ~ 0
+PB5
+Text GLabel 5600 7700 0    50   Input ~ 0
+PB6
+Text GLabel 5600 7800 0    50   Input ~ 0
 PB7
 Text GLabel 2200 9350 0    50   Input ~ 0
 PB8
@@ -886,14 +886,12 @@ Text GLabel 7550 7550 2    50   Input ~ 0
 PA8
 Text GLabel 7550 7450 2    50   Input ~ 0
 PA9
-Text GLabel 7500 7150 2    50   Input ~ 0
+Text GLabel 7550 7350 2    50   Input ~ 0
 PA10
 Text GLabel 7000 7800 2    50   Input ~ 0
 PB0
 Text GLabel 7000 7700 2    50   Input ~ 0
 PB1
-Text GLabel 7000 7300 2    50   Input ~ 0
-PB2
 $Comp
 L Connector:TestPoint TP1
 U 1 1 61F0C934
@@ -946,4 +944,6 @@ Text GLabel 850  3950 2    50   Input ~ 0
 resetsw
 Text GLabel 850  4250 2    50   Input ~ 0
 boot0
+Text GLabel 7000 7300 2    50   Input ~ 0
+PB10
 $EndSCHEMATC
