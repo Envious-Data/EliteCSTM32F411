@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name 2.54mmheadercastelation)(type KiCad)(uri ${KIPRJMOD}/Resources/2.54mmheadercastelation.pretty)(options "")(descr ""))
+  (lib (name HRO-TYPE-C31-M-12)(type KiCad)(uri ${KIPRJMOD}/Resources/HRO-TYPE-C31-M-12.pretty)(options "")(descr ""))
+  (lib (name josh-connectors)(type KiCad)(uri ${KIPRJMOD}/Resources/josh-kicad-lib/josh-connectors.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Resources/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name josh-buttons-switches)(type KiCad)(uri ${KIPRJMOD}/Resources/josh-kicad-lib/josh-buttons-switches.pretty)(options "")(descr ""))
+  (lib (name EnvExtras)(type KiCad)(uri ${KIPRJMOD}/Resources/EnvExtras.pretty)(options "")(descr ""))
+)

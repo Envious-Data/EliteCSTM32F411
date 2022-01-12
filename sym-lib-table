@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Resources/HRO-TYPE-C31-M-12.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name VSYS)(type Legacy)(uri ${KIPRJMOD}/Resources/VSYS.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/Resources/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name josh-connector)(type Legacy)(uri ${KIPRJMOD}/Resources/josh-kicad-lib/josh-connector.lib)(options "")(descr ""))
+  (lib (name josh-keyboard)(type Legacy)(uri ${KIPRJMOD}/Resources/josh-kicad-lib/josh-keyboard.lib)(options "")(descr ""))
+)
